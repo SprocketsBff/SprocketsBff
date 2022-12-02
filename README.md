@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SprocketsBff, aka Jennifer Segura, FullStack SWE
-- 👀 I’m interested in ...  software engineering, mern stack, MVC, fun with APIs, bit of cyber sec 
-- 🌱 I’m currently learning ...  web dev, dev ops, animation, AI
-- 💞️ I’m looking to collaborate on ... anything jr. level
-- 📫 How to reach me ... here on GitHub or Twitter @SprocketsBff
+- 👋 Hi, I’m Jennifer Segura, FullStack SWE and best friend of Sprocket. 
+- 👀 I’m interested in ...  adding quality, goodness, and light into the world.  
+- 🌱 I’m currently learning ...  web dev, AWS & Cloud Services, animation, AI & machine learning
+- 💞️ I’m looking to collaborate on ... anything
+- 📫 How to reach me ... here on GitHub or Twitter: @SprocketsBff or LinkedIN: https://www.linkedin.com/in/jennifer-segura-3a5959a4/
 
 <!---
 SprocketsBff/SprocketsBff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
