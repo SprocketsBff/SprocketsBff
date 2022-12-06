@@ -1,3 +1,10 @@
+![Sprocket_and_bff](https://user-images.githubusercontent.com/106359030/205824661-fc91753b-b30d-4699-a67d-6e0ee40efe23.jpg)
+
+
+
+
+
+
 - 👋 Hi, I’m Jennifer Segura, FullStack SWE and best friend of Sprocket. 
 - 👀 I’m interested in ...  adding quality, goodness, and light into the world.  
 - 🌱 I’m currently learning ...  web dev, AWS & Cloud Services, animation, AI & machine learning
